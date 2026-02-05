@@ -4,3 +4,4 @@ soft reset test
 
 revert test1
 revert test head
+revert aNYTHING
