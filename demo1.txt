@@ -3,3 +3,4 @@ Goodbye world.
 soft reset test
 
 revert test1
+revert test head
