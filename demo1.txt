@@ -1,2 +1,5 @@
 Hello world
 Goodbye world.
+soft reset test
+
+revert test
